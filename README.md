@@ -7,8 +7,8 @@ first down load composer then run command composer create laravel project/larave
 ##:eye::  Custom login with query builder or ORM/Migration
 
 
-##:eye::  Category Crud with Ajax/Migrate/Query Builder/Jquery validation
+##:eye::  Category Crud with Ajax/Migrate/Query Builder/Jquery validation/status/
 
 
 
-##:eye::  And Also Working Live Wordpress Site
+##:eye:: Product crud,user add 
